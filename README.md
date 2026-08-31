@@ -3,8 +3,11 @@ A Python data science project that scrapes financial data and builds visual char
 
 ## Technical Framework
 **Data Mining Engine:** Integrated yfinance API retrieval matrix for asset tracking.
+
 **DOM Scraper:** Modular BeautifulSoup parsing engine targeting unstructured tabular elements.
+
 **Normalization Logic:** Vectorized string manipulation and cleaning inside pandas.
+
 **Dashboard Engine:** Dynamic synchronized dual-axis plotting with matplotlib.
 
 ## Operational Insights
