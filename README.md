@@ -25,7 +25,7 @@ pip install yfinance beautifulsoup4 pandas matplotlib requests
 ### Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/kaushikik108/StockSync-Analysis.git
    ```
 2. Open and run the Jupyter Notebook `StockSync-Analysis.ipynb` to execute the data pipeline and generate the latest charts.
 
