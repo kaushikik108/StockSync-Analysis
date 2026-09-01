@@ -29,6 +29,6 @@ pip install yfinance beautifulsoup4 pandas matplotlib requests
    ```
 2. Open and run the Jupyter Notebook `StockSync-Analysis.ipynb` to execute the data pipeline and generate the latest charts.
 
-## 📜 References & Credits
+## References & Credits
 * Original baseline workflow concepts inspired by open-source data science laboratory materials created by the IBM Developer Skills Network.
 * Real-time index aggregation handled via open-source Yahoo Finance Python interfaces.
