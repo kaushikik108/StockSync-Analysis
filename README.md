@@ -12,7 +12,7 @@ StockSync-Analysis is a Python data science pipeline that scrapes fundamental fi
 This implementation cleanly parses raw web document trees into structured, relational dataframes. By plotting a stock's historical price alongside its quarterly fundamental revenue growth, the script provides a clear, correlated snapshot of market value versus financial reality.
 
 ### Sample Output Chart
-![Stock Analytics Chart](stock_chart(1).png)
+![Stock Analytics Chart](stock_chart.png)
 
 ## 🚀 Getting Started
 
