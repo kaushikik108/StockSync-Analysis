@@ -1,20 +1,20 @@
-# StockSync-Analysis 📈
+# StockSync-Analysis
 
 StockSync-Analysis is a Python data science pipeline that scrapes fundamental financial data from the web, extracts real-time stock histories, and builds synchronized dual-axis charts to analyze market trends.
 
-## 🛠️ Technical Framework
+## Technical Framework
 * **Data Mining Engine:** Automated historical price retrieval using the `yfinance` API matrix.
 * **DOM Scraper:** Modular `BeautifulSoup` engine targeting unstructured HTML tabular financial data.
 * **Data Cleansing:** Vectorized text manipulation, string stripping, and null handling inside `pandas`.
 * **Visualization Dashboard:** Dual-axis plotting using `matplotlib` to contrast asset price velocities with quarterly corporate revenue.
 
-## 📊 Operational Insights & Results
+## Operational Insights & Results
 This implementation cleanly parses raw web document trees into structured, relational dataframes. By plotting a stock's historical price alongside its quarterly fundamental revenue growth, the script provides a clear, correlated snapshot of market value versus financial reality.
 
 ### Sample Output Chart
 ![Stock Analytics Chart](stock_chart.png)
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 Ensure you have Python 3.x installed. You can install the required packages using:
